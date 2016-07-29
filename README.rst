@@ -12,6 +12,18 @@ Git-Lint
 
 Git-lint is a tool for improving source code one step at a time.
 
+
+IMPORTANT NOTE from the forker
+------------------------------
+
+In Mac OS X, this project doesn't work because of the compatibility issue of xargs. So the forker fixed and tested it in his environment.
+
+I wanted to shoot pull request to original repository, but that's last commit was too old. i.e., I suspect theire availability to improve their codes. If you're the author or a friend of her/him, please tell her/him "Thanks, I'm sincerely enjoying this code" and "Please fix this compatibility issue." Because I'm not a good shell script writer.
+
+If you have any idea, please leave PR or issue.
+
+Contact is here: Jaewon Choi <jaewon.james.choi@gmail.com>
+
 Motivation
 ----------
 
